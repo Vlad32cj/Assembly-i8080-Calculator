@@ -2,7 +2,7 @@
 
 ### Hello
 This program was created to understand how conditional jumps and arithmetic operations(for four-digit hexadecimal numbers) work in Assembler i8080.
-Possible Operations: addition, subtraction and logical negation.
+Possible operations: addition, subtraction and logical negation.
 
 It is desirable to use step-by-step execution (debugger).
 
