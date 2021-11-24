@@ -1,4 +1,4 @@
-# Intel 8080 Assembler calculator
+# Intel 8080 Assembly calculator
 
 ### Hello
 This program was created to understand how conditional jumps and arithmetic operations(for four-digit hexadecimal numbers) work in Assembler i8080.
