@@ -10,10 +10,10 @@ I have used "Symulator MCS-8".
 
 The code contains commands of a specific simulator, such as:
 - RST1 - Print character from register A to the console.
-- RST2 - Write a character from the keyboard to the accumulator register.
-- RST3 - Printing to the console a string from memory from HL register to '@'.
+- RST2 - Input (a character) from the keyboard to the accumulator register.
+- RST3 - Print a string from memory, from HL register to '@' to the console.
 - RST4 - Print two hexadecimal characters(numbers) from the accumulator register to the console.
-- RST5 - Keyboard entry of four hexadecimal characters to the DE register.
+- RST5 - Keyboard input of four hexadecimal characters to the DE register.
 
 If necessary, change these instructions to adapt code for your simulator or remove them(the result will be in HL register or in BC register(only for negation)).
 
