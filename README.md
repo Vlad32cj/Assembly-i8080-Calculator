@@ -22,5 +22,3 @@ Using the program is quite simple, as it assures the prompts at every step and c
 =========================================================================
 
 Good luck to everyone in learning programming.
-
-P.S. Learning any programming language is not superfluous
